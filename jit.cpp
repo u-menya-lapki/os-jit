@@ -47,7 +47,7 @@ void modify(void* ptr, int mod)
 
 int main(int argc, char** argv)
 {
-    std::cout << "The function that I use multiplies 7 by your input number or originally by 42.\n";
+    std::cout << "The function that I use multiplies 42 by your input number or originally by 7.\n";
 
     std::cout << "Enter \"run\" to run without changing or\n\"modify\" to change function code in runtime\n";
     std::string input;
